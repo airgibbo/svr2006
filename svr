@@ -557,3 +557,16 @@ patch=1,EE,03DBA50,extended,00000020
 patch=1,EE,03DBA51,extended,00000020
 patch=1,EE,03DBA52,extended,00000020
 patch=0,EE,204351DC,extended,42A80000
+
+// Triple H -> Kenny Omega
+patch=1,EE,03DB0E6,extended,0000004B
+patch=1,EE,03DB0E7,extended,00000065
+patch=1,EE,03DB0E8,extended,0000006E
+patch=1,EE,03DB0E9,extended,0000006E
+patch=1,EE,03DB0EA,extended,00000079
+patch=1,EE,03DB0EB,extended,00000020
+patch=1,EE,03DB0EC,extended,0000004F
+patch=1,EE,03DB0ED,extended,0000006D
+patch=1,EE,03DB0EE,extended,00000065
+patch=1,EE,03DB0EF,extended,00000067
+patch=1,EE,03DB0F0,extended,00000061
