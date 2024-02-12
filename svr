@@ -556,3 +556,4 @@ patch=1,EE,03DBA4F,extended,00000020
 patch=1,EE,03DBA50,extended,00000020
 patch=1,EE,03DBA51,extended,00000020
 patch=1,EE,03DBA52,extended,00000020
+patch=0,EE,204351DC,extended,42A80000
