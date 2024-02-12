@@ -1,0 +1,558 @@
+20 = space
+41 = A
+42 = B
+43 = C
+44 = D
+45 = E
+46 = F
+47 = G
+48 = H
+49 = I
+4A = J
+4B = K
+4C = L
+4D = M
+4E = N
+4F = O
+50 = P
+51 = Q
+52 = R
+53 = S
+54 = T
+55 = U
+56 = V
+57 = W
+58 = X
+59 = Y
+5A = Z
+61 = a
+62 = b
+63 = c
+64 = d
+65 = e
+66 = f
+67 = g
+68 = h
+69 = i
+6A = j
+6B = k
+6C = l
+6D = m
+6E = n
+6F = o
+70 = p
+71 = q
+72 = r
+73 = s
+74 = t
+75 = u
+76 = v
+77 = w
+78 = x
+79 = y
+7A = z
+80 = À
+81 = Á
+82 = Â
+83 = Ã
+84 = Ä
+85 = Å
+86 = Æ
+87 = Ç
+88 = È
+89 = É
+8A = Ê
+8B = Ë
+8C = Ì
+8D = Í
+8E = Î
+8F = Ï
+90 = Ð
+91 = Ñ
+92 = Ò
+93 = Ó
+94 = Ô
+95 = Õ
+96 = Ö
+97 = Š
+98 = Ø
+99 = Ù
+9A = Ú
+9B = Û
+9C = Ü
+9D = Ý
+9E = Þ
+E0 = à
+E1 = á
+E2 = â
+E4 = â
+F0 = ì
+ED = í
+EF = î
+F6 = ö
+FC = ù
+FA = ú
+FB = û
+30 = 0
+31 = 1
+32 = 2
+33 = 3
+34 = 4
+35 = 5
+36 = 6
+37 = 7
+38 = 8
+39 = 9
+21 = !
+22 = \"
+23 = #
+24 = $
+25 = %
+26 = &
+27 = \'
+28 = (
+29 = )
+2A = *
+2B = +
+2C = ,
+2D = -
+2E = .
+2F = /
+3A = :
+3B = ;
+3C = <
+3D = =
+3E = >
+3F = ?
+40 = @
+5B = [
+5C = ¥
+5D = ]
+5E = ^
+5F = _
+60 = ®
+7B = {
+7C = |
+7D = }
+7E = ~
+01 = †
+02 = ‡
+03 = Œ
+04 = œ
+05 = ¡
+06 = ¿
+07 = ¤
+08 = §
+09 = ¶
+0A = ª
+0B = ‰
+0C = ¥
+0D = €
+0E = ¢
+10 = µ
+11 = °
+12 = ß
+
+NAME MODIFIERS:
+
+CAW 1
+03DE9D2
+
+CAW 2
+03DEF82
+
+CAW 3
+03DF532
+
+CAW 4
+03DFAE2
+
+CAW 5
+03E0092
+
+CAW 6
+03E0642
+
+CAW 7
+03E0BF2
+
+CAW 8
+03E11A2
+
+CAW 9
+03E1752
+
+CAW 10
+03E1D02
+
+CAW 11
+03E22B2
+
+CAW 12
+03E2862
+
+CAW 13
+03E2E12
+
+CAW 14
+03E33C2
+
+CAW 15
+03E3972
+
+CAW 16
+03E3F22
+
+CAW 17
+03E44D2
+
+CAW 18
+03E4A82
+
+CAW 19
+03E5032
+
+CAW 20
+03E55E2
+
+CAW 21
+03E5B92
+
+CAW 22
+03E6142
+
+CAW 23
+03E66F2
+
+CAW 24
+03E6CA2
+
+CAW 25
+03E7252
+
+CAW 26
+03E7802
+
+CAW 27
+03E7DB2
+
+CAW 28
+03E8362
+
+CAW 29
+03E8912
+
+CAW 30
+03E8EC2
+
+The Rock
+03DAFA6
+
+Steve Austin
+03DB046
+
+Triple H
+03DB0E6
+
+Undertaker
+03DB186
+
+Rob Van Dam
+03DB226
+
+Kurt Angle
+03DB2C6
+
+Chris Jericho
+03DB366
+
+Kane
+03DB406
+
+Booker T
+03DB4A6
+
+Chris Benoit
+03DB546
+
+Edge
+03DB5E6
+
+Christian
+03DB686
+
+Lita
+03DB866
+
+William Regal
+03DBA46
+
+Carlito
+03DBAE6
+
+Vince McMahon
+03DBCC6
+
+Eric Bischoff
+03DBD66
+
+Rey Mysterio
+03DBE06
+
+J.B. Layfield
+03DBEA6
+
+Big Show
+03DBFE6
+
+Trish Stratus
+03DC086
+
+Tajiri
+03DC126
+
+Eugene
+03DC1C6
+
+Ric Flair
+03DC266
+
+Stacy Keibler
+03DC306
+
+Mark Jindrak
+03DC3A6
+
+Rene Dupree
+03DC446
+
+Chris Masters
+03DC4E6
+
+Scotty 2 Hotty
+03DC586
+
+Heidenreich
+03DC626
+
+Chavo Guerrero
+03DC6C6
+
+John Cena
+03DC806
+
+The Hurricane
+03DC8A6
+
+Christy Hemme
+03DC946
+
+Torrie Wilson
+03DC9E6
+
+Spike Dudley
+03DCA86
+
+Shawn Michaels
+03DCBC6
+
+Doug Basham
+03DCC66
+
+Danny Basham
+03DCD06
+
+Joy Giovanni
+03DCDA6
+
+Brian Hebner
+03DCE46
+
+Michael Cole
+03DCEE6
+
+Earl Hebner
+03DCF86
+
+Jim Ross
+03DD026
+
+Jerry Lawler
+03DD0C6
+
+Johnathan Coachman
+03DD166
+
+Tazz
+03DD206
+
+Eddie Guerrero
+03DD2A6
+
+Robert Conway
+03DD346
+
+Sylvain Grenier
+03DD3E6
+
+Michelle McCool
+03DD486
+
+Batista
+03DD526
+
+Randy Orton
+03DD5C6
+
+Muhammad Hassan
+03DD666
+
+Paul London
+03DD706
+
+Orlando Jordon
+03DD7A6
+
+British Bulldog
+03DD846
+
+Andre The Giant
+03DD8E6
+
+Snitsky
+03DD986
+
+Mankind
+03DDAC6
+
+Hollywood Hogan
+03DDC06
+
+Hogan 80\'s
+03DDCA6
+
+Shelton Benjamin
+03DDD46
+
+Charlie Haas
+03DDDE6
+
+Bret Hart
+03DDFC6
+
+Hulk Hogan
+03DE066
+
+Junkyard Dog
+03DE1A6
+
+Ted DiBiase
+03DE246
+
+Jake Roberts
+03DE2E6
+
+Jimmy Hart
+03DE386
+
+Steven Richards
+03DE4C6
+
+Theodore Long
+03DE566
+
+Khosrow Daivari
+03DE606
+
+Tony Chimmel
+03DE6A6
+
+Lilian Garcia
+03DE746
+
+Backstage Brawl Guy 1
+03DE7E6
+
+Backstage Brawl Guy 2
+03DDE86
+
+Bar Brawl Guy
+03DDF26
+
+Bar Maid
+03DE886
+
+Green Moves Model (Male)
+03DE926
+
+Red Moves Model
+03DE106
+
+Green Moves Model (Female)
+03DE426
+
+// All WWE Shop, Trophies
+patch=1,EE,20445304,extended,FFFFFFFF
+patch=1,EE,20445308,extended,FFFFFFFF
+
+//CAW unlocked camera and attributes
+patch=1,EE,201F6680,extended,00000000
+patch=1,EE,D053BC9E,extended,00008C83
+patch=1,EE,2053BC9C,extended,24020001
+
+//All Characters (Profile 1) by Codejunkies
+patch=1,EE,20445304,extended,FFFFFFFF
+
+//Unlock All (All Profiles) by Codejunkies
+patch=1,EE,201EAE2C,extended,240300FF
+patch=1,EE,201EAE30,extended,A0430000
+patch=1,EE,201EAE44,extended,24020001
+
+//Mr. McMahon - 100 popularity
+patch=1,EE,003DBD44,extended,00000001
+patch=1,EE,2043529C,extended,42C80000
+
+//Extra characters
+//Jerry Lawler by Code Master
+patch=1,EE,003DD144,extended,00000001
+//Jim Ross by Code Master
+patch=1,EE,003DD0A4,extended,00000001
+//Michael Cole by Code Master
+patch=1,EE,003DCF64,extended,00000001
+//Tazz - 61 popularity
+patch=1,EE,003DD284,extended,00000001
+patch=0,EE,204358FC,extended,42000000
+
+//Remove CAWs:
+patch=1,EE,003DEA50,extended,00000030
+patch=1,EE,003DF000,extended,00000000
+patch=1,EE,003DF5B0,extended,00000000
+patch=1,EE,003DFB60,extended,00000000
+patch=1,EE,003E0110,extended,00000000
+patch=1,EE,003E06C0,extended,00000000
+patch=1,EE,003E0C70,extended,00000000
+patch=1,EE,003E1220,extended,00000000
+patch=1,EE,003E17D0,extended,00000000
+patch=1,EE,003E1D80,extended,00000000
+patch=1,EE,003E2330,extended,00000000
+patch=1,EE,003E28E0,extended,00000000
+patch=1,EE,003E2E90,extended,00000000
+
+//Infinite Starting Cash (RAW GM) by Code Master
+patch=1,EE,2042F830,extended,05F5E0FF
+
+
+// William Regal -> Gunther
+patch=1,EE,03DBA46,extended,00000047
+patch=1,EE,03DBA47,extended,00000075
+patch=1,EE,03DBA48,extended,0000006E
+patch=1,EE,03DBA49,extended,00000074
+patch=1,EE,03DBA4A,extended,00000068
+patch=1,EE,03DBA4B,extended,00000065
+patch=1,EE,03DBA4C,extended,00000072
+patch=1,EE,03DBA4D,extended,00000020
+patch=1,EE,03DBA4E,extended,00000020
+patch=1,EE,03DBA4F,extended,00000020
+patch=1,EE,03DBA50,extended,00000020
+patch=1,EE,03DBA51,extended,00000020
+patch=1,EE,03DBA52,extended,00000020
